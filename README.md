@@ -1,8 +1,12 @@
 # Joycon
+
+
+For now i need Davidobot's permitt. Then i will open the source.
+
+
 A switch joycon stick manager app for android
 
 Port BetterJoy to Android device
-
 
 Demo1 (touch to watch video)
 
