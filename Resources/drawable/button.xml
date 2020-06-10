@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+  <item android:drawable="@drawable/cross"/>
+  <item android:drawable="@drawable/jc_left"/>
+  <item android:drawable="@drawable/jc_right" />
+  <item android:drawable="@drawable/jc_left_s" />
+  <item android:drawable="@drawable/jc_right_s" />
+  <item android:drawable="@drawable/pro" />
+  <item android:drawable="@drawable/snes" />
+</selector>
