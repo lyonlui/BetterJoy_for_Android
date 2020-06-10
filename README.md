@@ -1,7 +1,7 @@
 # Joycon
 
 
-For now i need Davidobot's permitt. Then i will open the source.
+
 
 
 A switch joycon stick manager app for android
