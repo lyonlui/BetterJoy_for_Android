@@ -1,7 +1,9 @@
 # Joycon
 
 
-# Before you clone the project, pleast visit my other project [Android_Joycon_Lib](https://github.com/lyonlui/Android_Joycon_Lib) first.
+Warning!!!
+
+Before you clone the project, pleast visit my other project [Android_Joycon_Lib](https://github.com/lyonlui/Android_Joycon_Lib) first.
 
 
 For more information about xamarin please visit https://docs.microsoft.com/en-us/xamarin/android/
