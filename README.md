@@ -1,3 +1,7 @@
+# Notes
+This is just an experimental project. I don't recommend that you pursue the full joycon function on Android. First, the Android system itself does not support hidraw devices. Second, the communication data packets of the joycon peripherals(i.e. Fitness Ring) have not been cracked yet.
+
+
 # Joycon
 
 
